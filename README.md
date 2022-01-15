@@ -1,5 +1,20 @@
-# Diabetes_prediction_using_AzureML
+## Diabetes Predictor
 A diabetes predictor which is built using Azure Machine learning services.
+
+> Upon providing certain information by the patient (i.e: Age, Gender, Body Mass Index, Blood Pressure, Serum 1-6, and current diabetes level - Y) the engine will predict what the diabetes rate will look like in 12 months from the date of the inquire.
+
+>> The value limits of the attributes are :
+>> * AGE : 19-79 
+>> * SEX : 1-2 
+>> * BMI : 18-42.2 
+>> * BP : 62-133 
+>> * S1 : 41.6-242.4  
+>> * S2 : 22-99 
+>> * S3 : 2-9.09 
+>> * S4 : 3.26-6.11
+>> * S6 : 58-124 
+>> * Y : 25-346   
+
 
 
 
