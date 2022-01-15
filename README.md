@@ -24,7 +24,7 @@
 
 ## HOW TO RUN : 
 1. Open Postman
-2. Click HEADERS button and enter Content-Type as header and application/json in value.
+2. Click HEADERS button and enter Content-Type as header and application/json in value. The values can be modified too.
 3. Next, click on BODY section  and copy the code from form.json file.
 4. Then, Select POST from the dropdown next to the URL text box. And copy the following URL 
  ``` bash
