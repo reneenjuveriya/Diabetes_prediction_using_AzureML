@@ -18,7 +18,10 @@
 
 ## AZURE SERVICES THAT WERE USED IN THIS MODEL :
 * **Machine Learning Studio**
+* **Pipelines**
 * **Azure Kubernetes Service**
+* **Virtual Machines**
+* **Azure Open datasets**
 
 </br>
 
