@@ -2,6 +2,7 @@
 A diabetes predictor which is built using Azure Machine learning services.
 
 
-![screenshot](https://user-images.githubusercontent.com/93391666/149627112-ce3eec04-8631-4950-93cb-a6f883ea9213.png)
 
-![screenshot (2)](https://user-images.githubusercontent.com/93391666/149627500-0e99fceb-2f44-4e51-9d82-0a1688139f30.png)
+
+![screenshot (3)](https://user-images.githubusercontent.com/93391666/149629320-5fd624e8-579e-45f3-94ee-f09f86a76b61.png)
+![screenshot (4)](https://user-images.githubusercontent.com/93391666/149629325-786bf66b-4ec1-4d9a-8c37-41d8c730e94e.png)
